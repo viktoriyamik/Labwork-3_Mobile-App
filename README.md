@@ -8,7 +8,7 @@ Node.js version v18.13.0 </br>
 Angular CLI: 15.0.0 </br>
 Angular: 15.2.0 </br>
 
-![image](https://user-images.githubusercontent.com/98818779/222460338-839200ed-9d9b-4c90-8839-fe8af36e3c74.png) ![image](https://user-images.githubusercontent.com/98818779/222461034-52494cc2-e0ff-43ad-a36f-814417bdc855.png) ![image](https://user-images.githubusercontent.com/98818779/222545978-d8c2f995-a7bb-465b-a351-3fc527e7d587.png)
+![image](https://user-images.githubusercontent.com/98818779/222460338-839200ed-9d9b-4c90-8839-fe8af36e3c74.png) ![image](https://user-images.githubusercontent.com/98818779/222461034-52494cc2-e0ff-43ad-a36f-814417bdc855.png) ![image](https://user-images.githubusercontent.com/98818779/222546238-10361dec-8861-43c6-a6e5-fafa9a1e842f.png)
 
 
 </br> App dimensions: Samsung Galaxy S8+
